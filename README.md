@@ -27,10 +27,10 @@ Generating security events using nmap for the SIEM to pick up on:  <br/>
 <br />
 <br />
 Log analysis: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Log Analysis.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Query for nmap:  <br/>
+Custom query for nmap:  <br/>
 <img src="Custom Query.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -38,7 +38,7 @@ Dashboard containing security events:  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Alert to detect security events:  <br/>
+Alert to detect security events via email:  <br/>
 <img src="Email Alert Setup.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
