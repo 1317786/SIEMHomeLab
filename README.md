@@ -19,7 +19,7 @@ In this lab we are going to be setting up a home lab using Elastic SIEM and a Ka
 
 <p align="center">
 Connecting to the Elastic Beats agent in order to receive data from Kali VM: <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Agent Verifed Connection.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Generating security events using nmap for the SIEM to pick up on:  <br/>
