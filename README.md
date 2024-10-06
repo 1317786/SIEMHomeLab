@@ -35,7 +35,7 @@ Custom query for nmap:  <br/>
 <br />
 <br />
 Dashboard containing security events:  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Dashboard.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Alert to detect security events via email:  <br/>
