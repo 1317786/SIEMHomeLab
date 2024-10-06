@@ -23,7 +23,7 @@ Connecting to the Elastic Beats agent in order to receive data from Kali VM: <br
 <br />
 <br />
 Generating security events using nmap for the SIEM to pick up on:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Generating Security Events on Kali.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Log analysis: <br/>
@@ -31,7 +31,7 @@ Log analysis: <br/>
 <br />
 <br />
 Query for nmap:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Custom Query.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Dashboard containing security events:  <br/>
@@ -39,7 +39,7 @@ Dashboard containing security events:  <br/>
 <br />
 <br />
 Alert to detect security events:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Email Alert Setup.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
