@@ -24,28 +24,20 @@ In this project, we will be creating a Python script designed to crack MD5 hashe
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Connecting to the Elastic Beats agent in order to receive data from Kali VM: <br/>
+Python code to create MD5 hash cracker using nano text editor: <br/>
 <img src="Agent Verifed Connection.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Generating security events using nmap for the SIEM to pick up on:  <br/>
+Created .txt file containing list of possible passwords:  <br/>
 <img src="Generating Security Events on Kali.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Log analysis: <br/>
+Generated an MD5 hash tied to the password 'admin': <br/>
 <img src="Log Analysis.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Custom query for nmap:  <br/>
+Successful verfication of the hash cracker detecting admin within the hash:  <br/>
 <img src="Custom Query.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Dashboard containing security events:  <br/>
-<img src="Dashboard.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Alert to detect security events via email:  <br/>
-<img src="Email Alert Setup.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
