@@ -1,8 +1,8 @@
-<h1>SIEM Tool Home Lab</h1>
+<h1>Python MD5 Hash Cracker</h1>
 
 
 <h2>Description</h2>
-In this lab we are going to be setting up a home lab using Elastic SIEM and a Kali VM. We will forward data from the Kali VM to the SIEM using the Elastic Beats agent, generate security events on the Kali VM using Nmap, and query and analyze the logs in the SIEM using the Elastic web interface. We'll also create a dashboard to visualize security events and then create an alert to detect security events.<br />
+In this project, we will be creating a Python script designed to crack MD5 hashes. The focus will be on developing a script that can take an MD5 hash input and employ a list of potential plaintext passwords to uncover the original text. This practical exercise serves as an excellent introduction to the vulnerabilities of MD5 hashes and the techniques used for their decryption.<br />
 
 
 <h2>Languages and Utilities Used</h2>
@@ -16,11 +16,9 @@ In this lab we are going to be setting up a home lab using Elastic SIEM and a Ka
 
 <h2>Takeaways</h2>
 
-- <b>Elastic Stack SIEM Configuration and Management</b>: Successfully set up and configured Elastic Stack SIEM in a home lab environment. Demonstrated proficiency in deploying a Kali Linux VM, configuring Elastic agents for log collection, and forwarding data to the SIEM for effective security event monitoring.
+- <b>Python Script Development for MD5 Hash Cracking</b>: Successfully developed a Python script that deciphers MD5 hashes to reveal plain text passwords, emphasizing practical applications of cryptographic techniques. Demonstrated proficiency in utilizing Python's hashlib module, enhancing skills in creating security tools and understanding hash function vulnerabilities.
 
-- <b>Security Event Simulation and Analysis</b>: Acquired hands-on experience in generating and analyzing security events using Nmap on Kali Linux. Proficient in querying Elastic SIEM to identify and investigate security incidents, enhancing skills in network security monitoring and threat detection.
-
-- <b>Visualization and Alerting in SIEM</b>: Developed a custom dashboard in Elastic SIEM to visualize security events, demonstrating skills in data interpretation and pattern recognition. Successfully created and tested alert rules for detecting specific security events, showing competency in proactive incident response and alert management.
+- <b>Testing and Verification of Script Functionality</b>: Acquired practical experience by rigorously testing the hash cracker against a custom password list, validating the script’s effectiveness in identifying the correct passwords. This process highlighted the importance of comprehensive testing in software development, ensuring the tool’s functionality and reliability in real-world scenarios.
 
 
 <h2>Program walk-through:</h2>
