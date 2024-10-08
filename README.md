@@ -16,11 +16,11 @@ In this lab we are going to be setting up a home lab using Elastic SIEM and a Ka
 
 <h2>Takeaways</h2>
 
-- <b>ELASTIC STACK SIEM CONFIGURATION AND MANAGEMENT</b>: SUCCESSFULLY SET UP AND CONFIGURED ELASTIC STACK SIEM IN A HOME LAB ENVIRONMENT. DEMONSTRATED PROFICIENCY IN DEPLOYING A KALI LINUX VM, CONFIGURING ELASTIC AGENTS FOR LOG COLLECTION, AND FORWARDING DATA TO THE SIEM FOR EFFECTIVE SECURITY EVENT MONITORING.
+- <b>Elastic Stack SIEM Configuration and Management</b>: Successfully set up and configured Elastic Stack SIEM in a home lab environment. Demonstrated proficiency in deploying a Kali Linux VM, configuring Elastic agents for log collection, and forwarding data to the SIEM for effective security event monitoring.
 
-- <b>SECURITY EVENT SIMULATION AND ANALYSIS</b>: ACQUIRED HANDS-ON EXPERIENCE IN GENERATING AND ANALYZING SECURITY EVENTS USING NMAP ON KALI LINUX. PROFICIENT IN QUERYING ELASTIC SIEM TO IDENTIFY AND INVESTIGATE SECURITY INCIDENTS, ENHANCING SKILLS IN NETWORK SECURITY MONITORING AND THREAT DETECTION.
+- <b>Security Event Simulation and Analysis</b>: Acquired hands-on experience in generating and analyzing security events using Nmap on Kali Linux. Proficient in querying Elastic SIEM to identify and investigate security incidents, enhancing skills in network security monitoring and threat detection.
 
-- <b>VISUALIZATION AND ALERTING IN SIEM</b>: DEVELOPED A CUSTOM DASHBOARD IN ELASTIC SIEM TO VISUALIZE SECURITY EVENIS, DEMONSTRATING SKILLS IN DATA INTERPRETATION AND PATTERN RECOGNITION. SUCCESSFULLY CREATED AND TESTED ALERT RULES FOR DETECTING SPECIFIC SECURITY EVENTS, SHOWING COMPETENCY IN PROACTIVE INCIDENT RESPONSE AND ALERT MANAGEMENT.
+- <b>Visualization and Alerting in SIEM</b>: Developed a custom dashboard in Elastic SIEM to visualize security events, demonstrating skills in data interpretation and pattern recognition. Successfully created and tested alert rules for detecting specific security events, showing competency in proactive incident response and alert management.
 
 
 <h2>Program walk-through:</h2>
