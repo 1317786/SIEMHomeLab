@@ -7,12 +7,13 @@ In this project, we will be creating a Python script designed to crack MD5 hashe
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Kali Linux</b> 
+
 - <b>Oracle Virtual Box</b>
 
 <h2>Environments Used </h2>
 
 - <b>Elastic Cloud</b>
+- <b>Kali Linux</b> 
 
 <h2>Takeaways</h2>
 
