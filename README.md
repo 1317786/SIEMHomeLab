@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-In this project, we will be creating a Python script designed to crack MD5 hashes. The focus will be on developing a script that can take an MD5 hash input and employ a list of potential plaintext passwords to uncover the original text. This practical exercise serves as an excellent introduction to the vulnerabilities of MD5 hashes and the techniques used for their decryption.<br />
+In this project, we will set up and manage an Elastic Stack SIEM in a home lab environment. Using tools such as Elastic SIEM, Kali Linux, and Nmap, the focus will be on mastering the configuration of security event simulations and analyses. The project will involve deploying a Kali Linux VM, configuring Elastic Agents for log collection, and developing a custom dashboard for visualizing security threats. This hands-on experience is designed to deepen understanding of real-time security monitoring and enhance skills in managing incident responses and proactive security strategies within a controlled lab setting.<br />
 
 
 <h2>Languages and Utilities Used</h2>
