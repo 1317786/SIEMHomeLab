@@ -56,7 +56,7 @@ Dashboard containing security events:  <br/>
 <br />
 <br />
 Alert to detect security events via email:  <br/>
-<img src="Generating Security Events on Kali.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Email Alert Setup.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br /> 
 </p>
