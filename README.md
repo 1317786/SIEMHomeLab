@@ -28,19 +28,19 @@ In this lab we are going to be setting up a home lab using Elastic SIEM and a Ka
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Python code to create MD5 hash cracker using nano text editor: <br/>
+Connecting to the Elastic Beats agent in order to receive data from Kali VM: <br/>
 <img src="Agent Verifed Connection.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Created .txt file containing list of possible passwords:  <br/>
+Generating security events using nmap for the SIEM to pick up on:  <br/>
 <img src="Generating Security Events on Kali.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Generated an MD5 hash tied to the password 'admin': <br/>
+Log analysis: <br/>
 <img src="Log Analysis.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Successful verfication of the hash cracker detecting admin within the hash:  <br/>
+Custom query for nmap: <br/>
 <img src="Custom Query.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
