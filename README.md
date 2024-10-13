@@ -44,6 +44,21 @@ Custom query for nmap: <br/>
 <img src="Custom Query.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
+<br />
+<br />
+Dashboard containing security events:  <br/>
+<img src="Generating Security Events on Kali.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+
+<br />
+<br />
+Alert to detect security events via email:  <br/>
+<img src="Generating Security Events on Kali.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br /> 
 </p>
 
 <!--
