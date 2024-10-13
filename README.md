@@ -48,7 +48,7 @@ Custom query for nmap: <br/>
 <br />
 <br />
 Dashboard containing security events:  <br/>
-<img src="Generating Security Events on Kali.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Dashboard.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
