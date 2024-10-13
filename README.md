@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-In this project, we will set up and manage an Elastic Stack SIEM in a home lab environment. Using tools such as Elastic SIEM, Kali Linux, and Nmap, the focus will be on mastering the configuration of security event simulations and analyses. The project will involve deploying a Kali Linux VM, configuring Elastic Agents for log collection, and developing a custom dashboard for visualizing security threats. This hands-on experience is designed to deepen understanding of real-time security monitoring and enhance skills in managing incident responses and proactive security strategies within a controlled lab setting.<br />
+In this lab we are going to be setting up a home lab using Elastic SIEM and a Kali VM. We will forward data from the Kali VM to the SIEM using the Elastic Beats agent, generate security events on the Kali VM using Nmap, and query and analyze the logs in the SIEM using the Elastic web interface. We'll also create a dashboard to visualize security events and then create an alert to detect security events.<br />
 
 
 <h2>Languages and Utilities Used</h2>
